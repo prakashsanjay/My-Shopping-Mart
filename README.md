@@ -1,9 +1,9 @@
-# **My-Shopping-Mart**
+# **Deploy My-Shopping-Mart Django App in AWS EC2**
 
 ![Screenshot of website](https://user-images.githubusercontent.com/23288656/182156472-9d88340d-b471-4462-bb16-e2dc0301aacc.png)
 
 
-This is a basic python-django based eCommerce shopping website
+Please follow the Instructions to build & deploy this Django App in AWS EC2 
 
 # **Prequisite to develope this project**
 
