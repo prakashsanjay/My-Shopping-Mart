@@ -120,7 +120,30 @@ Now go back to your EC2 page select your instance and right click connect
 
 ![Capture-13](https://user-images.githubusercontent.com/23288656/182442973-35df0f2f-ac7f-40bd-8135-733083559df1.PNG)
 
+Step 10:
 
+  Now open your ubuntu terminal & locate your private key file. The key used to launch this instance is YOUR_KEY_NAME.pem file
+
+ in my case my pem file is in Download folder
+  
+  cd Downloads
+  
+  Run this command, to ensure your key is not publicly viewable.
+  
+  chmod 400 WRITE_YOUR_KEY_NAME.pem
+  
+  Connect to your instance using its Public DNS:
+  
+  sudo ec2-3-92-214-213.compute-1.amazonaws.com (Enter Your Public DNS)
+  
+   you will connect to AWS EC2 Ubuntu server
+  
+  ![Screenshot from 2022-08-03 00-13-12](https://user-images.githubusercontent.com/23288656/182450782-e771faa2-be52-40c9-868c-858db27a3ce0.png)
+
+  
+   
+  
+  
 
 
 
