@@ -141,6 +141,23 @@ Step 10:
   ![Screenshot from 2022-08-03 00-13-12](https://user-images.githubusercontent.com/23288656/182450782-e771faa2-be52-40c9-868c-858db27a3ce0.png)
 
   
+  step 11
+  
+  make sure git install into your ubuntu server before cloning github project type or copy this command in your git clone https://github.com/prakashsanjay/My-Shopping-Mart.git and find your project by typing ls command you will fimd My_Shopping_mart
+  
+  ![Screenshot from 2022-08-03 00-23-49](https://user-images.githubusercontent.com/23288656/182451942-323f931c-cab5-4840-8f44-d47de16b71e6.png)
+  
+  step 12 
+  
+  make sure python and Django both are installed than run 
+
+![Screenshot from 2022-08-03 00-34-28](https://user-images.githubusercontent.com/23288656/182453583-0ec29eef-0366-4ab4-b583-1f0b0d71d5d4.png)
+
+
+
+
+  
+  
    
   
   
