@@ -143,15 +143,63 @@ Step 10:
   
   step 11
   
-  make sure git install into your ubuntu server before cloning github project type or copy this command in your git clone https://github.com/prakashsanjay/My-Shopping-Mart.git and find your project by typing ls command you will fimd My_Shopping_mart
+  ls
+  
+  cd My_Shopping_Mart
+  
+  make sure git install into your ubuntu server before cloning github project type or copy this command in your
+  git clone https://github.com/prakashsanjay/My-Shopping-Mart.git and find your project by typing ls command you will fimd My_Shopping_mart
   
   ![Screenshot from 2022-08-03 00-23-49](https://user-images.githubusercontent.com/23288656/182451942-323f931c-cab5-4840-8f44-d47de16b71e6.png)
   
   step 12 
   
-  make sure Python and Django both are installed than run 
+  now go to settings.py file 
+  
+  cd pyshop
+  
+  ls
+  
+  vim settings.py press enter
+  
+  make sure Python and Django both are installed in your AWS linux
+  
+  ![Capture-uu](https://user-images.githubusercontent.com/23288656/182536572-b25bb7f8-fbaf-4236-98c4-648a10ff9803.PNG)
 
-![Screenshot from 2022-08-03 00-34-28](https://user-images.githubusercontent.com/23288656/182453583-0ec29eef-0366-4ab4-b583-1f0b0d71d5d4.png)
+step 13
+
+press i to insert
+than scrool down to Allowed Hosts [ ] empty box means your local host. now
+enter ['*'] it will allow any ip address or [you can enter your EC2 publiv IP ]
+press esc button 
+:wq press enter
+you can also update it from vs code project folder locate settings.py file in pyshop folder 
+you can change allowed host from there as well.
+
+
+![Screenshot from 2022-08-03 11-26-13](https://user-images.githubusercontent.com/23288656/182536735-730d1cb8-0285-4172-a4b1-a770e2c812d9.png)
+
+Step 14
+Run server 
+
+Python3 manage.py runserver 0.0.0.0:8000
+
+
+![CaptureLKJLKJ](https://user-images.githubusercontent.com/23288656/182540126-c67bd942-92d4-4329-a369-7442e2366f40.PNG)
+
+Step 15
+
+CTRL + CLICK 0.0.0.0:8000
+
+Once the server is hosted, head over to http://0.0.0.0:8000/products/ for the App.and our django app now running into AWS EC2 server
+That was also pretty simple, right?
+
+
+![Screenshot from 2022-08-03 11-20-15](https://user-images.githubusercontent.com/23288656/182540794-7c242249-fd96-4ccb-b1f7-cc6802eb3371.png)
+
+
+
+
 
 
 
