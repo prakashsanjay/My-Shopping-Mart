@@ -3,9 +3,7 @@
 ![Screenshot of website](https://user-images.githubusercontent.com/23288656/182156472-9d88340d-b471-4462-bb16-e2dc0301aacc.png)
 
 
-Please follow the Instructions to build & deploy this Django App in AWS EC2 
-
-# **Prequisite to develope this project**
+# **Prequisite to Build & Deploy Django App in AWS EC2** 
 
 1 OS Linux-Ubuntu (Windows ,Mac)
 
