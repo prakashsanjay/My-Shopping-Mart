@@ -147,7 +147,8 @@ Step 10:
   
   cd My_Shopping_Mart
   
-  make sure git install into your ubuntu server before cloning github project type or copy this command in your
+  make sure git install into your ubuntu server before cloning github project type or copy this command in your terminal
+  
   git clone https://github.com/prakashsanjay/My-Shopping-Mart.git and find your project by typing ls command you will fimd My_Shopping_mart
   
   ![Screenshot from 2022-08-03 00-23-49](https://user-images.githubusercontent.com/23288656/182451942-323f931c-cab5-4840-8f44-d47de16b71e6.png)
