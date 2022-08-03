@@ -149,7 +149,7 @@ Step 10:
   
   step 12 
   
-  make sure python and Django both are installed than run 
+  make sure Python and Django both are installed than run 
 
 ![Screenshot from 2022-08-03 00-34-28](https://user-images.githubusercontent.com/23288656/182453583-0ec29eef-0366-4ab4-b583-1f0b0d71d5d4.png)
 
