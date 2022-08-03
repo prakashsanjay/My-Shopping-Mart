@@ -58,6 +58,8 @@ Step 6
 
 Once the server is hosted, head over to http://127.0.0.1:8000/products/ for the App.That was pretty simple, right?
 
+![Screenshot of website](https://user-images.githubusercontent.com/23288656/182156472-9d88340d-b471-4462-bb16-e2dc0301aacc.png)
+
 
  # *How To Deploy Django Application in AWS EC2*
 
